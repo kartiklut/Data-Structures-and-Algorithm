@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
