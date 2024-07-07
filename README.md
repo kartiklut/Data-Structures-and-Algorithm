@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
