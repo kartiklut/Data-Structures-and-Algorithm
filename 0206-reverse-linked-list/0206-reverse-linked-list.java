@@ -10,17 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        // head = [1,2,3,4,5] 2 1
-        if (head == null || head.next == null)
-            return head;
-        ListNode prev = null;
-        ListNode temp = head;
-        ListNode front = null;
-        while (temp!= null) {
-            front = temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=front;
+                //ITERATIVE O(n)
+        // head = p[1c,2n,3,4,5] 2 1
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode nextNode=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nextNode;
         }
         return prev;
     }
