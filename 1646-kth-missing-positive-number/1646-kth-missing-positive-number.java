@@ -11,6 +11,6 @@ class Solution {
                 right=mid-1;
             }
         }
-        return left+k;
+        return right+k+1;
     }
 }
