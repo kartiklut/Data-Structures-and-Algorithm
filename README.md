@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
