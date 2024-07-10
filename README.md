@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
