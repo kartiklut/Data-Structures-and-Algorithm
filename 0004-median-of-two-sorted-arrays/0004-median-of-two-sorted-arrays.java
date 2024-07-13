@@ -17,7 +17,7 @@ class Solution {
                 if((nums1.length+nums2.length)%2==1)
                     return (double)Math.max(l1,l2);
                 else
-                    return ((double) (Math.max(l1, l2) + Math.min(r1, r2))) / 2.0;
+                    return (double) (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
             }else if(l1>r2) right=mid1-1;
             else if(l2>r1)  left=mid1+1;
         }
