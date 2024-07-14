@@ -9,8 +9,8 @@ class Solution {
         while(left<=right){
             int mid1=(left+right)/2; //means take mid1 ele on the left from arr1
             int mid2=leftHalfLen-mid1; //means take rem ele from arr1 on right
-            int l1=mid1>0 ? nums1[mid1-1] : Integer.MIN_VALUE;
-            int l2=mid2>0 ? nums2[mid2-1] : Integer.MIN_VALUE;
+            int l1=mid1-1>=0 ? nums1[mid1-1] : Integer.MIN_VALUE;
+            int l2=mid2-1>=0 ? nums2[mid2-1] : Integer.MIN_VALUE;
             int r1=mid1<nums1.length ? nums1[mid1] : Integer.MAX_VALUE;
             int r2=mid2<nums2.length ? nums2[mid2] : Integer.MAX_VALUE;
             if(l1<=r2 && l2<=r1){
