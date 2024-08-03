@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
