@@ -7,9 +7,7 @@ class Solution {
         int right=0;
         while(right<s.length()){
             hmap.put(s.charAt(right),hmap.getOrDefault(s.charAt(right),0)+1);
-            for(Integer value:hmap.values()){
-                mostFreqCount=Math.max(mostFreqCount,value);
-            }
+            mostFreqCount=Math.max(mostFreqCount,hmap.get(s.charAt(right)));
             int replaceCharCount=right-left+1-mostFreqCount;
             while(replaceCharCount>k && left<right){
                 hmap.put(s.charAt(left),hmap.get(s.charAt(left))-1);
