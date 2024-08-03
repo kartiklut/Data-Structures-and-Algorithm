@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
