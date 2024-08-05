@@ -2,26 +2,7 @@ class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
 
         //[0,0,0,0] k=0
-        //Optimal
-        int left=0;
-        int right=0;
-        int count=0;
-        int currSum=0;
-        int zerosCount=0;
-        while(right<nums.length){
-            currSum+=nums[right];
-            while(left<right && (nums[left]==0 || currSum>goal)){
-                if(nums[left]==0) zerosCount++;
-                else zerosCount=0;
-                currSum-=nums[left];
-                left++;
-            }
-            if(currSum==goal){
-                count=count+1+zerosCount;
-            }
-            right++;
-        }
-        return count;
+        return atMost(nums,goal)- atMost(nums,goal-1);
 
 
         //Better O(n) and O(goal)
@@ -40,5 +21,24 @@ class Solution {
         //     index++;
         // }
         // return count;
+    }
+
+
+    static int atMost(int[] nums, int goal){
+        if(goal<0) return 0;
+        int left=0;
+        int right=0;
+        int count=0;
+        int currSum=0;
+        while(right<nums.length){
+            currSum+=nums[right];
+            while(currSum>goal){
+                currSum-=nums[left];
+                left++;
+            }
+            count+=right-left+1;
+            right++;
+        }
+        return count;
     }
 }
