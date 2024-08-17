@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -159,8 +160,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
