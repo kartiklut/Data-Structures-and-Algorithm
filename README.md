@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
