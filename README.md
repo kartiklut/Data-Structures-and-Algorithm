@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
