@@ -7,36 +7,37 @@ class MinStack {
     }
     
     public void push(int val) {
-        Long vall=Long.valueOf(val);
         if(stack.isEmpty()){
-            min=vall;
-            stack.push(vall);
+            stack.push(Long.valueOf(val));
+            min=Long.valueOf(val);
         }else{
-            if(vall<min){
-                Long newMin=2*vall-min;
-                stack.push(newMin);
-                min=vall;
+            if(val<=min.intValue()){
+                //Store the encrypted value
+                Long newValue=2*Long.valueOf(val)-min;
+                stack.push(newValue);
+                min=Long.valueOf(val);
             }else{
-                stack.push(vall);
+                stack.push(Long.valueOf(val));
             }
         }
     }
     
     public void pop() {
+        //check if encrypted value is stored
         if(stack.peek()<=min){
-           min=2*min-stack.peek();
-           stack.pop();
-        }else{
-            stack.pop();
+            //if encrypted is stored then decrypt it and update min
+            Long currEncryptedValue=stack.peek();
+            min=2*min-currEncryptedValue;
         }
+        stack.pop();
     }
     
     public int top() {
+        //check if stack's top is encrypted
         if(stack.peek()<=min){
             return min.intValue();
-        }else{
-            return stack.peek().intValue();
         }
+        return stack.peek().intValue();
     }
     
     public int getMin() {
