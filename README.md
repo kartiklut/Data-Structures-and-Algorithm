@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
