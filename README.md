@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
