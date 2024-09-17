@@ -1,53 +1,45 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        //[5,2,3,1]
-        //5 2
-        // len=2
-        // ele=nums[2]; //5
-            Arrays.sort(nums);
-            return nums;
-    //    return insertionSortUsingRecursion(nums,nums.length);
+         sort(nums,0,nums.length-1);
+         return nums;
     }
 
-    //Recursive
-    private int[] insertionSortUsingRecursion(int nums[],int len){
-        if(len==1)
-            return nums;
-        insertionSortUsingRecursion(nums,len-1);
-        int ele=nums[len-1];
-        int newNums[]=putElementAtCorrectPos(nums,len,ele);
-        return nums;
+   static void sort(int nums[],int left,int right){
+        if(right<=left) return;
+        int mid=(right+left)/2;
+        sort(nums,left,mid);
+        sort(nums,mid+1,right);
+        mergeLeftRight(nums,left,right,mid);
     }
 
-    // 1 2 4 3
-    private int[] putElementAtCorrectPos(int nums[],int len,int ele){
-        if(len==1) 
-            return new int[]{nums[0]};
-        int newNums[]=new int[len];
-        if(nums[len-1]<=ele){
-            
-        }else{
-            putElementAtCorrectPos(nums,len-1,ele);
+   static void mergeLeftRight(int nums[],int left,int right,int mid){
+        int temp[]=new int[right-left+1];
+        int l=left;
+        int r=mid+1;
+        int index=0;
+        while(l<=mid && r<=right){
+            if(nums[l]<=nums[r]){
+                temp[index]=nums[l];
+                l++;
+                index++;
+            }else if(nums[r]<nums[l]){
+                temp[index]=nums[r];
+                r++;
+                index++;
+            }
         }
-        return newNums;
+        while(l<=mid){
+            temp[index]=nums[l];
+            l++;
+            index++;
+        }
+        while(r<=right){
+            temp[index]=nums[r];
+            r++;
+            index++;
+        }
+        for(int i=left;i<=right;i++){
+            nums[i]=temp[i-left];
+        }
     }
-
-        //Iterative
-    // private int[] insertionSortUsingRecursion(int nums[],int len){
-    //     if(len==1)
-    //         return nums;
-    //     insertionSortUsingRecursion(nums,len-1);
-    //     int ele=nums[len-1];
-    //     for(int i=0;i<len;i++){
-    //         if(ele<=nums[i]){
-    //             int temp=nums[i];
-    //             nums[i]=ele;
-    //             ele=temp;
-    //         }
-    //     }
-    //     if(nums[len-1]<=ele){
-    //         nums[len-1]=ele;
-    //     }
-    //     return nums;
-    // }
 }
