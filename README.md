@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2227-sum-of-subarray-ranges](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
