@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
+| [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 ## Counting
