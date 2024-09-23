@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
