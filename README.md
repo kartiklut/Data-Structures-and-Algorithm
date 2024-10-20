@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
