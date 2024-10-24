@@ -1,11 +1,10 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         
-        Set<List<Integer>> uniqueComb= combiSum(candidates,target,0,new ArrayList<>(),new HashSet<>());
-        return new ArrayList<>(uniqueComb);
+        return combiSum(candidates,target,0,new ArrayList<>(),new ArrayList<>());
     }
 
-    public Set<List<Integer>> combiSum(int candidates[],int target,int index,List<Integer> combSofar,Set<List<Integer>> result){
+    public List<List<Integer>> combiSum(int candidates[],int target,int index,List<Integer> combSofar,List<List<Integer>> result){
         if(target==0){
             result.add(new ArrayList<>(combSofar));
             return result;
