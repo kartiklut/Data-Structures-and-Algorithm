@@ -16,11 +16,11 @@ class Solution {
             return result;
         }
 
-        
-        combSofar.add(candidates[index]);
-        combiSum(candidates,target-candidates[index],index,combSofar,result);
-        combSofar.remove(combSofar.size()-1);
-        combiSum(candidates,target,index+1,combSofar,result);
+        for(int i=index;i<candidates.length;i++){
+            combSofar.add(candidates[i]);
+            combiSum(candidates,target-candidates[i],i,combSofar,result);
+            combSofar.remove(combSofar.size()-1);
+        }
         
         return result;
     }
