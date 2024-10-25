@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2047-find-a-peak-element-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0216-combination-sum-iii) |
 ## Memoization
