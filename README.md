@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -295,12 +297,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
