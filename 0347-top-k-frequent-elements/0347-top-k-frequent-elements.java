@@ -10,7 +10,7 @@ class Solution {
         }
 
         public int compareTo(Pair obj){
-            return obj.freq-this.freq;
+            return this.freq-obj.freq;
         }
     }
 
@@ -19,19 +19,26 @@ class Solution {
         for(int ele : nums){
             freqMap.put(ele,freqMap.getOrDefault(ele,0)+1);
         }
-        PriorityQueue<Pair> maxHeap=new PriorityQueue<>();
+        PriorityQueue<Pair> minHeap=new PriorityQueue<>();
 
         for(Map.Entry<Integer,Integer> map : freqMap.entrySet()){
             Pair p=new Pair(map.getKey(),map.getValue());
-            maxHeap.add(p);
+            minHeap.add(p);
+            if(minHeap.size()>k){
+                minHeap.poll();
+            }
         }
 
         int resArr[]=new int[k];
         int index=0;
         while(k-->0){
-            resArr[index]=maxHeap.poll().ele;
+            resArr[index]=minHeap.poll().ele;
             index++;
         }
         return resArr;
+
+
+
+        
     }
 }
