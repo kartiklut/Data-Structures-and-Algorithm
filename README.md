@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 ## Brainteaser
 |  |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -309,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -391,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
