@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2481-strictly-palindromic-number) |
 ## Counting
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -399,4 +404,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
