@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -434,10 +436,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
