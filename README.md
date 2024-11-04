@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
 |  |
@@ -409,4 +412,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
