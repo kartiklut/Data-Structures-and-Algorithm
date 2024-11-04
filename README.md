@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0948-sort-an-array) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 ## Queue
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
