@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
