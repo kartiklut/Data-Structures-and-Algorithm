@@ -1,41 +1,32 @@
-class Pair{
+class Temperature{
+    int index;
     int temp;
-    int warmCount;
 
-    Pair(int temp,int warmCount){
+    Temperature(int index,int temp){
+        this.index=index;
         this.temp=temp;
-        this.warmCount=warmCount;
-    }
-
-    int getTemp(){
-        return temp;
-    }
-
-    int getWarmCount(){
-        return warmCount;
     }
 }
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        Stack<Pair> stack=new Stack<>();
-        int arr[]=new int[temperatures.length];
+        Stack<Temperature> stack=new Stack<>();
+        int resArr[]=new int[temperatures.length];
         for(int i=temperatures.length-1;i>=0;i--){
             if(stack.isEmpty()){
-                arr[i]=0;
-                stack.push(new Pair(temperatures[i],0));
-                continue;
+                resArr[i]=0;
+                stack.push(new Temperature(i,temperatures[i]));
+            }else{
+                while(!stack.isEmpty() && stack.peek().temp<=temperatures[i]){
+                    stack.pop();
+                }
+                if(stack.isEmpty()){
+                    resArr[i]=0;
+                }else{
+                    resArr[i]=stack.peek().index-i;
+                }
+                stack.push(new Temperature(i,temperatures[i]));
             }
-            int count=1;
-            while(!stack.isEmpty() && stack.peek().getTemp()<=temperatures[i]){
-                count+=stack.peek().getWarmCount();
-                stack.pop();
-            }
-            if(stack.isEmpty()){
-                count=0;
-            }
-            stack.push(new Pair(temperatures[i],count));
-            arr[i]=count;
         }
-        return arr;
+        return resArr;
     }
 }
