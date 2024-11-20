@@ -1,22 +1,25 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        Deque<Integer> deque = new ArrayDeque<>();
+        // [1,3,-1,-3,5,3,6,7]
+
+        Deque<Integer> deque=new ArrayDeque<>();
         int resArr[]=new int[nums.length-k+1];
-        int resIterator=0;
+        int indexIterator=0;
         for(int i=0;i<nums.length;i++){
-            while(deque.size()>=1 &&  deque.getFirst()<=i-k && i>=k){
+            while(!deque.isEmpty() && deque.getFirst()<=i-k && i>=k-1){
                 deque.removeFirst();
             }
-            //Monotonic Dec Stack;
-            while(deque.size()>=1 && nums[i]>nums[deque.getLast()]){
+            while(!deque.isEmpty() && nums[deque.getLast()]<nums[i])
+            {
                 deque.removeLast();
             }
-            deque.addLast(i); 
+            deque.addLast(i);
             if(i>=k-1){
-                resArr[resIterator]=nums[deque.getFirst()];
-                resIterator++;
+                resArr[indexIterator]=nums[deque.getFirst()];
+                indexIterator++;
             }
         }
         return resArr;
+
     }
 }
