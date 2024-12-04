@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
