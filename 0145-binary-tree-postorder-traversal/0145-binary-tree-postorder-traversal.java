@@ -13,56 +13,18 @@
  *     }
  * }
  */
-
- public class Pair{
-    TreeNode node;
-    int state;
-
-    Pair(TreeNode node,int state){
-        this.node=node;
-        this.state=state;
-    }
- }
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-         if(root==null) return new ArrayList<>();
-
-        //Recursive
-        // return postOrder(root,new ArrayList<>());
-
-        //Iterative
-        Stack<Pair> stack=new Stack<>();
-        Pair initialPair=new Pair(root,1);
-        stack.push(initialPair);
-        List<Integer> postOrderList=new ArrayList<>();
+        if(root==null) return new ArrayList<>();
+        Stack<TreeNode> stack=new Stack<>();
+        stack.push(root);
+        List<Integer> result=new ArrayList<>();
         while(!stack.isEmpty()){
-            Pair peekPair=stack.peek();
-            if(peekPair.state==1){
-                peekPair.state+=1;
-                if(peekPair.node.left!=null){
-                    Pair leftPair=new Pair(peekPair.node.left,1);
-                    stack.push(leftPair);
-                }
-            }else if(peekPair.state==2){
-                peekPair.state+=1;
-                if(peekPair.node.right!=null){
-                    Pair rightPair=new Pair(peekPair.node.right,1);
-                    stack.push(rightPair);
-                }
-            }else if(peekPair.state==3){
-                postOrderList.add(peekPair.node.val);
-                stack.pop();
-            }
+            TreeNode node=stack.pop();
+            result.add(0,node.val);
+            if(node.left!=null) stack.push(node.left);
+            if(node.right!=null) stack.push(node.right);
         }
-        return postOrderList;
-    }
-
-    public List<Integer> postOrder(TreeNode node,List<Integer> resultAl){
-       
-        postOrder(node.left,resultAl);
-        postOrder(node.right,resultAl);
-        resultAl.add(node.val);
-
-        return resultAl;
+        return result;
     }
 }
