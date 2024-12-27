@@ -23,23 +23,18 @@ class Solution {
     public void tilt(TreeNode root,int res[]){
         if(root==null) return;
 
-        //for curr node calc leftSum and rightSum
-        int leftSum=calcChildSum(root.left);
-        int rightSum=calcChildSum(root.right);
-        res[0]+=Math.abs(leftSum-rightSum);
-        //calc maxSofar
-        //do same for everynode
         tilt(root.left,res);
         tilt(root.right,res);
-
-    }
-
-    public int calcChildSum(TreeNode root){
-        if(root==null) return 0;
-
-        int left=calcChildSum(root.left);
-        int right=calcChildSum(root.right);
-
-        return left+right+root.val;
+        int left=0;
+        if(root.left!=null){
+            root.val+=root.left.val;
+            left=root.left.val;
+        }
+        int right=0;
+        if(root.right!=null){
+            root.val+=root.right.val;
+            right=root.right.val;
+        }
+        res[0]+=Math.abs(left-right);
     }
 }
