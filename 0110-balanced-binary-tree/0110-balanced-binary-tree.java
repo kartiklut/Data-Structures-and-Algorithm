@@ -17,22 +17,17 @@ class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
         
-        int lH=calculateLRheight(root.left);
-        int rH=calculateLRheight(root.right);
-        if(Math.abs(lH-rH)>1){
+        int leftSubtree=calcHeight(root.left);
+        int rightSubtree=calcHeight(root.right);
+        if(leftSubtree>rightSubtree+1 || rightSubtree>leftSubtree+1){
             return false;
         }
-        boolean left=isBalanced(root.left);
-        boolean right=isBalanced(root.right);
-        if(!left || !right){
-            return false;
-        }
-        return true;
+        return isBalanced(root.left) && isBalanced(root.right);
     }
 
-    public int calculateLRheight(TreeNode root){
+    public int calcHeight(TreeNode root){
         if(root==null) return 0;
 
-       return  1+Math.max(calculateLRheight(root.left),calculateLRheight(root.right));
+        return 1+Math.max(calcHeight(root.left),calcHeight(root.right));
     }
 }
