@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0563-binary-tree-tilt) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0563-binary-tree-tilt) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kartiklut/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
