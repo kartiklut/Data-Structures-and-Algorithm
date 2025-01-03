@@ -13,60 +13,30 @@
  *     }
  * }
  */
-public class Pair{
-    int state;
-    TreeNode node;
-
-    Pair(TreeNode node,int state){
-        this.state=state;
-        this.node=node;
-    }
-} 
-
 class Solution {
-
-    
     public List<Integer> inorderTraversal(TreeNode root) {
-        if(root==null) return new ArrayList<>();
-        //Recursive
-        // return inOrder(root,new ArrayList<>());
-
-        //Iterative
-       Stack<Pair> stack=new Stack<>();
-       Pair topPair=new Pair(root,1); //add initial state
-       stack.push(topPair);
         List<Integer> resultAl=new ArrayList<>();
-       while(!stack.isEmpty()){
-            Pair pair=stack.peek();
-            if(pair.state==1){
-                //Preorder
-                pair.state+=1;
-                if(pair.node.left!=null){
-                    Pair leftPair=new Pair(pair.node.left,1); 
-                    stack.push(leftPair);
+        while(root!=null){
+            if(root.left==null){
+                resultAl.add(root.val);
+                root=root.right;
+            }else{
+                //exist and not traversed
+                TreeNode curr=root.left;
+                while(curr.right!=null && curr.right.val!=root.val){
+                    curr=curr.right;
                 }
-            }else if(pair.state==2){
-                resultAl.add(pair.node.val);
-                pair.state+=1;
-                 if(pair.node.right!=null){
-                    Pair rightPair=new Pair(pair.node.right,1); 
-                    stack.push(rightPair);
-                }
-            }else if(pair.state==3){
-                stack.pop();
+                //create link
+                if(curr.right==null){
+                    curr.right=root;
+                    root=root.left;
+                }else{
+                    curr.right=null;
+                    resultAl.add(root.val);
+                    root=root.right;
+                } 
             }
-       }
-       return resultAl;
-    }
-
-
-
-
-
-    public List<Integer> inOrder(TreeNode node, List<Integer> resultAl){
-        inOrder(node.left,resultAl);
-        resultAl.add(node.val);
-        inOrder(node.right,resultAl);
+        }
         return resultAl;
     }
 }
