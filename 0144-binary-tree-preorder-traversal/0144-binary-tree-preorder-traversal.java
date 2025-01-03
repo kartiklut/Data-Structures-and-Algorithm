@@ -15,35 +15,28 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        
-        //REcursive
-        return preOrder(root,new ArrayList<>());
-    }
-
-    public List<Integer> preOrder(TreeNode node,List<Integer> resultAl){
-        if(node==null) return resultAl;
-
-        resultAl.add(node.val);
-        preOrder(node.left,resultAl);
-        preOrder(node.right,resultAl);
+        List<Integer> resultAl=new ArrayList<>();
+        while(root!=null){
+            if(root.left==null){
+                resultAl.add(root.val);
+                root=root.right;
+            }else{
+                //exist and not traversed
+                TreeNode curr=root.left;
+                while(curr.right!=null && curr.right!=root){
+                    curr=curr.right;
+                }
+                //create link
+                if(curr.right==null){
+                    resultAl.add(root.val);
+                    curr.right=root;
+                    root=root.left;
+                }else{
+                    curr.right=null;
+                    root=root.right;
+                } 
+            }
+        }
         return resultAl;
     }
-    
-    //Iterative 
-    // public List<Integer> preorderTraversal(TreeNode root) {
-    //     if(root==null) return new ArrayList<>();
-    //     Stack<TreeNode> stack=new Stack<>();
-    //     stack.push(root);
-    //     List<Integer> resultAl=new ArrayList<>();
-    //     while(stack.size()>0){
-    //         int count=stack.size();
-    //         for(int i=0;i<count;i++){
-    //             TreeNode node=stack.pop();
-    //             resultAl.add(node.val);
-    //             if(node.right!=null) stack.push(node.right);
-    //             if(node.left!=null) stack.push(node.left);
-    //         }
-    //     }
-    //     return resultAl;
-    // }
 }
