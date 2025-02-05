@@ -23,7 +23,7 @@ class Solution {
             }else{
                 //exist and not traversed
                 TreeNode curr=root.left;
-                while(curr.right!=null && curr.right.val!=root.val){
+                while(curr.right!=null && curr.right!=root){
                     curr=curr.right;
                 }
                 //create link
